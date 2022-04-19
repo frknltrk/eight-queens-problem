@@ -1,1 +1,2 @@
 - Recommended workspace: Eclipse IDE
+- TODO: Reduce the repetition.
