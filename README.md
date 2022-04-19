@@ -1,0 +1,1 @@
+- Recommended workspace: Eclipse IDE
