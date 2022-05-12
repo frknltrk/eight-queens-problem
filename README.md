@@ -1,2 +1,3 @@
 - Recommended workspace: Eclipse IDE
 - TODO: Reduce the repetition by encapsulation/method.
+- 2nd part: https://github.com/frknltrk/eight-queens-problem-2
